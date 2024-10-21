@@ -48,5 +48,7 @@ Plotly: Used for creating interactive visualizations, including candlestick char
 
 ## Results
 OHLC Analysis: Insights into the trends of Bitcoin prices over time.
+
 Volatility Study: Daily fluctuations in the Bitcoin market.
+
 Visualizations: Candlestick charts and line graphs to represent Bitcoin price movements.
