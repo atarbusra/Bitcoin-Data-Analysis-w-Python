@@ -7,11 +7,17 @@ This project focuses on analyzing Bitcoin price data over time, utilizing Python
 The dataset contains historical Bitcoin price data with the following fields:
 
 Date: The date of the price record.
+
 Open: Opening price of Bitcoin for the day.
+
 High: Highest price of Bitcoin for the day.
+
 Low: Lowest price of Bitcoin for the day.
+
 Close: Closing price of Bitcoin for the day.
+
 Volume: Trading volume of Bitcoin.
+
 Market Cap: Market capitalization of Bitcoin.
 
 ## Key Analyses
